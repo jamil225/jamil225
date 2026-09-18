@@ -4,7 +4,7 @@ Technical Lead and Gen AI Engineer based in India. 8+ years building backend sys
 
 - 🏦 Technical Lead at Synechron, embedded with HSBC Corporate Investment Banking
 - 🤖 Ship RAG platforms, LLM gateways, and evaluation pipelines in production
-- ⚙️ 7+ years in Java and Spring Boot before moving into Gen AI
+- ⚙️ 8+ years in Java and Spring Boot before moving into Gen AI
 - 🏆 1st Runner-Up, TechM Innoverse Gen AI Hackathon. Top 100 of 4,700+ teams, Google Agentic AI Hackathon
 - 📫 jamil.ahmad7720@gmail.com or [LinkedIn](https://www.linkedin.com/in/jamilahmad-7720)
 - ✍️ Writing on [Medium](https://medium.com/@jamil.ahmad7720)
@@ -41,7 +41,7 @@ Technical Lead and Gen AI Engineer based in India. 8+ years building backend sys
 **[AI Fashion Designer](https://github.com/jamil225/ai-fasion-designer)**
 FastAPI, Gemini Vision, OpenAI embeddings, Pinecone. Turns garment photos into searchable metadata and adds virtual try-on with Google's Nano Banana Pro Vision API. Runs on a multi-LLM gateway (LiteLLM) with failover routing.
 
-**[Multi-Agent Trip Planner](https://github.com/ajit766/Itenary-planner)**
+**[Multi-Agent Trip Planner]([https://github.com/ajit766/Itenary-planner](https://github.com/jamil225/Itenary-planner-hackathon))**
 Hierarchical multi-agent system on Google ADK. A Gemini 2.5 Pro coordinator runs 8 specialist sub-agents through requirements, drafting, booking, and notification. Top 100 of 4,700+ teams at the GenAI Exchange Hackathon.
 
 **SmartDocs AI**
